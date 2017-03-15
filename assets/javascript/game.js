@@ -45,4 +45,4 @@ for (var i = 0; i < numberOptions.length; i++) {
 
 </script>
 
-<!-- I have obviously just followed the given example and I feel like I undersand the logic in withe the for loop and such but I seem to be having trouble linking my script files with my html document -->
+<!-- I have obviously just followed the given example and I feel like I undersand the logic with the for loop and such but I seem to be having trouble linking my script files with my html document -->
